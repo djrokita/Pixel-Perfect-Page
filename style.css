@@ -278,7 +278,7 @@ article .right {
 	margin: 0;
 }
 
-.buy-right {
+.buy-inner:hover {
 	background: #fff;
 	box-shadow: 0px 0px 20px 5px lightgray;
 }
